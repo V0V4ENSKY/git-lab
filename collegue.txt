@@ -1,0 +1,5 @@
+Warden07 > colleague2.txt
+git add colleague2.txt
+git commit -m Dima
+git push origin main
+echo Dimaa
